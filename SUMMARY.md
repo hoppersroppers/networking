@@ -1,93 +1,63 @@
 # Summary
 
 
-## Capture the Flags
 
-* [The Competitive Team](chapter_0/0-thecompetitiveteam.md) 
-* [Jeopardy Style](chapter_0/1-jeopardystyle.md) 
-* [Join the Team](chapter_0/2-jointheteam.md) 
-* [What You Will Learn](chapter_0/3-whatyouwilllearn.md) 
+## Intro to Insecurity
 
-## CTF Meta
+* [Risk](chapter_0/0-risk.md)
+* [Introduction](chapter_0/1-introduction.md)
+* [Second Equation](chapter_0/2-secondequation.md)
+* [Risk Modeling](chapter_0/3-riskmodeling.md)
+* [Risk Assessment](chapter_0/4-riskassessment.md)
+* [Security Principles](chapter_0/5-securityprinciples.md)
+* [CIA Triad](chapter_0/6-ciatriad.md)
+* [Saltzer and Schroeder](chapter_0/7-saltzerandschroeder.md)
+* [Immutable Laws](chapter_0/8-immutablelaws.md)
+* [Threats](chapter_0/9-threats.md)
+* [Cyber Killchain](chapter_0/10-cyberkillchain.md)
+* [PostExploitation](chapter_0/11-postexploitation.md)
+* [Pyramid of Pain](chapter_0/12-pyramidofpain.md)
+* [Diamond Model](chapter_0/13-diamondmodel.md)
+* [Advanced Persistent Threats](chapter_0/14-advancedpersistentthreats.md)
+* [Malware](chapter_0/15-malware.md)
+* [How it Works](chapter_0/16-howitworks.md)
+* [Architecture ](chapter_0/17-architecture.md)
+* [Domains of Attack](chapter_0/18-domainsofattack.md)
+* [Mechanisms of Attack](chapter_0/19-mechanismsofattack.md)
+* [Methods of Attack ](chapter_0/20-methodsofattack.md)
+* [Penetration Testing](chapter_0/21-penetrationtesting.md)
+* [Advanced Pen Test](chapter_0/22-advancedpentest.md)
+* [Principles in the Real World](chapter_0/23-principlesintherealworld.md)
+* [Wireless Attack](chapter_0/24-wirelessattack.md)
+* [Web App Attack](chapter_0/25-webappattack.md)
 
-* [Basic Principles](chapter_1/0-basicprinciples.md) 
-* [Linux and VMs](chapter_1/1-linuxandvms.md) 
-* [Programming and Scripting ](chapter_1/2-programmingandscripting.md) 
+## Defense Against the Dark Arts
 
-## File Forensics
-
-* [CTF Meta](chapter_2/0-ctfmeta.md) 
-* [Representing Data 1](chapter_2/1-representingdata1.md) 
-* [Representing Data 2](chapter_2/2-representingdata2.md) 
-* [File Carving 1](chapter_2/4-filecarving1.md) 
-* [File Carving 2](chapter_2/5-filecarving2.md) 
-* [File Carving 3](chapter_2/6-filecarving3.md) 
-* [File Carving 4](chapter_2/7-filecarving4.md) 
-* [File Carving 5](chapter_2/8-filecarving5.md) 
-* [File Metadata](chapter_2/10-filemetadata.md) 
-* [File Metadata 2](chapter_2/11-filemetadata2.md) 
-* [Steganography 1](chapter_2/13-steganography1.md) 
-* [Steganography 2](chapter_2/14-steganography2.md) 
-* [User Testimonial](chapter_2/17-usertestimonial.md) 
-
-## Host Forensics
-
-* [Host Forensics](chapter_3/0-hostforensics.md) 
-
-## Memory Forensics
-
-* [Memory Forensics](chapter_4/0-memoryforensics.md) 
-
-## Network Forensics
-
-* [CTF Meta ](chapter_5/0-ctfmeta.md) 
-* [Wireshark](chapter_5/1-wireshark.md) 
-* [tShark](chapter_5/2-tshark.md) 
-* [Networking RFCs 1](chapter_5/3-networkingrfcs1.md) 
-* [Networking RFCs 2](chapter_5/4-networkingrfcs2.md) 
-* [NetForensics 1](chapter_5/6-netforensics1.md) 
-* [NetForensics 2](chapter_5/7-netforensics2.md) 
-* [NetForensics 3](chapter_5/8-netforensics3.md) 
-* [NetForensics 4](chapter_5/9-netforensics4.md) 
-* [NetForensics 5](chapter_5/10-netforensics5.md) 
-* [NetForensics 6](chapter_5/11-netforensics6.md) 
-* [NetForensics 7](chapter_5/12-netforensics7.md) 
-
-## Cryptography
-
-* [CTF Meta ](chapter_6/0-ctfmeta.md) 
-* [Classical Ciphers](chapter_6/1-classicalciphers.md) 
-* [Frequency Analysis](chapter_6/2-frequencyanalysis.md) 
-* [Automated Frequency Analysis](chapter_6/3-automatedfrequencyanalysis.md) 
-* [Index of Coincidence](chapter_6/4-indexofcoincidence.md) 
-* [Caesar Ciphers and Substitution](chapter_6/5-caesarciphersandsubstitution.md) 
-* [Vigenere Ciphers](chapter_6/6-vigenereciphers.md) 
-* [Fun Ciphers](chapter_6/7-funciphers.md) 
-* [Modern Cryptography](chapter_6/9-moderncryptography.md) 
-* [Modern Crypto](chapter_6/10-moderncrypto.md) 
-* [Passwords](chapter_6/11-passwords.md) 
-* [Hashes](chapter_6/12-hashes.md) 
-* [XOR](chapter_6/13-xor.md) 
-* [RSA](chapter_6/14-rsa.md) 
-* [Things You Shouldnt Try to Do](chapter_6/16-thingsyoushouldnttrytodo.md) 
-
-## Web Exploitation
-
-* [CTF Meta](chapter_7/0-ctfmeta.md) 
-* [How Website](chapter_7/1-howwebsite.md) 
-* [Under the Hood](chapter_7/2-underthehood.md) 
-* [SQL Injection](chapter_7/4-sqlinjection.md) 
-* [Command Injection](chapter_7/5-commandinjection.md) 
-* [Directory Traversal](chapter_7/6-directorytraversal.md) 
-* [Cross Site Request Forgery](chapter_7/7-crosssiterequestforgery.md) 
-* [Cross Site Scripting](chapter_7/8-crosssitescripting.md) 
-* [Server Side Request Forgery](chapter_7/9-serversiderequestforgery.md) 
-
-## Reversing and Binary Exploitation
-
-* [You Wont Learn That Here](chapter_8/0-youwontlearnthathere.md) 
-
-## picoCTF
-
-* [Compete and Learn](chapter_9/0-competeandlearn.md) 
-* [User Testimonial](chapter_9/2-usertestimonial.md) 
+* [Hacked](chapter_1/0-hacked.md)
+* [Already Hacked](chapter_1/1-alreadyhacked.md)
+* [AntiVirus](chapter_1/2-antivirus.md)
+* [Process Hunting](chapter_1/3-processhunting.md)
+* [Network Hunting](chapter_1/4-networkhunting.md)
+* [You got Tricked](chapter_1/5-yougottricked.md)
+* [Outdated Extensions and Permissions](chapter_1/6-outdatedextensionsandpermissions.md)
+* [Someone Else Got Owned](chapter_1/7-someoneelsegotowned.md)
+* [Malware Removal](chapter_1/8-malwareremoval.md)
+* [Taylor Swifts Guide to Securing Your Computer](chapter_1/9-taylorswiftsguidetosecuringyourcomputer.md)
+* [Passwords](chapter_1/10-passwords.md)
+* [Passwords](chapter_1/11-passwords.md)
+* [Password Manager](chapter_1/12-passwordmanager.md)
+* [MultiFactor Authentication](chapter_1/13-multifactorauthentication.md)
+* [Security Questions and Account Resets](chapter_1/14-securityquestionsandaccountresets.md)
+* [More Password Stuff](chapter_1/15-morepasswordstuff.md)
+* [Networks](chapter_1/16-networks.md)
+* [Hostile Networks Intro](chapter_1/17-hostilenetworksintro.md)
+* [Protect Your IP](chapter_1/18-protectyourip.md)
+* [IP Protections](chapter_1/19-ipprotections.md)
+* [Man in the Middle](chapter_1/20-maninthemiddle.md)
+* [Encryption](chapter_1/21-encryption.md)
+* [Real World](chapter_1/22-realworld.md)
+* [OPSEC](chapter_1/23-opsec.md)
+* [Compartmentalization](chapter_1/24-compartmentalization.md)
+* [Physical Attacks](chapter_1/25-physicalattacks.md)
+* [Linux Password Reset](chapter_1/26-linuxpasswordreset.md)
+* [Windows Password Reset](chapter_1/27-windowspasswordreset.md)
