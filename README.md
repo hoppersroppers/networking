@@ -1,8 +1,8 @@
 # Introduction
 
-This is the intro to security fundamentals course!
+This is the full tex of the Intro to Security Fundamentals course!
 
-Something is weird about getting the initial build hitting from Travis.
+
 
 This site is generated from a Moodle course hosted at:
 
