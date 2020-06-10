@@ -1,6 +1,6 @@
 # Passwords
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=931)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=931)
 
 # You used a shitty password 
 <https://ssd.eff.org/en/module/creating-strong-passwords>
@@ -20,4 +20,6 @@ Tasks:
 9. <https://xkcd.com/936/>
 
 Here is a brief experiment for you to try. Try to make a rough guess how many web sites you use on a regular basis use your primary email as their account recovery address. Now, try to think about which of those sites are the most important to you that they remain secure; social media, banking, other email accounts. Now think of the sketchy sites you reuse the same password on. If those sketchy sites are breached, and the attacker gets your password, they can try it against your email. If they get your email, they can use it to take your other accounts. This is called "password stuffing".
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=931)
+ 

@@ -1,6 +1,6 @@
 # Protect Your IP
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=939)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=939)
 
 If you make a request to a website or send/receive any data across the internet, you have given your router's IP address. This request can take any form, from a visiting a link, viewing an image hosted there, or being redirected through a short link. You can also be tricked into opening a file that sends a request out to the internet, running a program which profiles your computer and sends out a request, or even running a terrible DDOS tool that makes no attempt to hide that it is running on your own network. An attacker can use these requests to identify someone through a 3rd party service. 
  
@@ -24,4 +24,5 @@ Tasks:
 * How much information do they have about you now?
 
 Adding an extra hop works, but it needs to be done intelligently, and certainly not through a sketchy website which provides it for free. Don't use free proxies, because if the product is free.... you are the product.
-[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=939)
+
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=939) 

@@ -1,6 +1,6 @@
 # Physical Attacks
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=947)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=947)
 
 # Physical attacks
 
@@ -70,4 +70,5 @@ Lockpicking and other security bypass techniques are very popular in the communi
 Read this: <https://www.art-of-lockpicking.com/how-to-pick-a-lock-guide/>. 
 At some point we will figure out getting lockpicks to participants so that they can practice. 
 	   
-[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=947)
+
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=947) 

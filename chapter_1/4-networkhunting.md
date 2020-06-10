@@ -1,6 +1,6 @@
 # Network Hunting
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=923)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=923)
 
 ### Network Hunting
 
@@ -14,4 +14,6 @@ Tasks:
 3. Look at the Glasswire alerts. 
 4. Choose one of the alerts for something that isn't a webbrowser and identify the stream in Wireshark.
 5. Submit a screenshot of the data from Wireshark.
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=923)
+ 

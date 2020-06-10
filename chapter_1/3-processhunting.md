@@ -1,6 +1,6 @@
 # Process Hunting
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=921)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=921)
 
 Read this: [https://resources.infosecinstitute.com/category/enterprise/threat-hunting/threat-hunting-process/](https://resources.infosecinstitute.com/category/enterprise/threat-hunting/threat-hunting-process/) 
 
@@ -24,4 +24,6 @@ Now we are going to complete this little tutorial so that you can learn all abou
 I know it is a lot of work but it is great stuff and I should create deliverables, I will eventually.
 
 For now, when you are done, explain a hypothetical hunt process using these tools. No more than 2 or 3 sentences.
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=921)
+ 

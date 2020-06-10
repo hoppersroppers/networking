@@ -1,6 +1,6 @@
 # Web App Attack
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=915)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=915)
 
 Same poster, learn about a sample web app pen test. 
 
@@ -13,4 +13,6 @@ Task:
 In your own words, describe what happened so that you, a year ago, could understand. This one is hard, but fun.
 
 Again, ask questions!
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=915)
+ 

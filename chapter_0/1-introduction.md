@@ -1,6 +1,6 @@
 # Introduction
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=887)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=887)
 
 Read this: <https://web.archive.org/web/20170704130416/https://www.usna.edu/CyberDept/sy110/lec/risk/lec.html>
 
@@ -13,4 +13,6 @@ This link goes to part of a school's intro to cyber course. While that seems a l
 
 
 As an important legal note, we are not affiliated with that school, we just went there at one point. 
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=887)
+ 

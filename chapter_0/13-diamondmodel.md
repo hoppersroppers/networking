@@ -1,6 +1,6 @@
 # Diamond Model
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=901)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=901)
 
 # Diamond Model
 
@@ -15,4 +15,6 @@ Tasks:
 3. What is a threat group/activity group? (You may need Google)
 4. Write a few sentences on how you can use these pieces of information to build an identity for an activity group.
 5. Write about what the benefits are of creating a named threat/activity group
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=901)
+ 

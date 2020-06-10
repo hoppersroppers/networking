@@ -1,6 +1,6 @@
 # Someone Else Got Owned
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=926)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=926)
 
 Your security is only as good as your weakest link. Read these articles about some of the cooler hacks in recent memory and get an idea of what is possible and where each failure was caused by someone else getting owned.
 
@@ -20,4 +20,6 @@ Tasks:
 2. Write a few sentences on how the RSA hack enabled all the other ownage.
 3. Write a few sentences on how the Bit9 hack enabled other ownage.
 4. Write a few sentences on how NotPetya was done.
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=926)
+ 

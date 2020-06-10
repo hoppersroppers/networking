@@ -1,6 +1,6 @@
 # Already Hacked
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=919)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=919)
 
 As we went over earlier, if a sufficiently advanced attacker wants to get into your stuff specifically, they will.
 
@@ -17,4 +17,5 @@ The most common way to get malware on your computer is to already have malware o
 Remember the term indicators of compromise (IOC) from before?. There are a ton that can be used, some approaches more technical than others. Common non-techical indicators include constant pop ups, home page redirection, search engine redirection, the classic pile of toolbars, and the computer being slow and the fans working way too hard. Technical indicators include extra processes running, network requests, and things saved in places they shouldn't be. Looking for these technical indicators is called "Threat Hunting". It deserves its own section, but we will briefly go over a few ways you can identify the bad things on your computer.
 
 [https://blog.malwarebytes.com/101/2016/05/how-to-tell-if-youre-infected-with-malware/](https://blog.malwarebytes.com/101/2016/05/how-to-tell-if-youre-infected-with-malware/)
-[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=919)
+
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=919) 

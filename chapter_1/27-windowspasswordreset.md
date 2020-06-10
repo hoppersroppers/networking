@@ -1,6 +1,6 @@
 # Windows Password Reset
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=949)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=949)
 
 Now its time for Windows!
 This literally works on every single version of Windows, and every Windows computer you have ever been on.
@@ -17,4 +17,6 @@ This link will bring you to the actual way to do this. <https://www.top-password
 Write a couple sentences about what you learned from this. 
 
 
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=949)
+ 

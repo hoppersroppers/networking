@@ -1,6 +1,6 @@
 # Methods of Attack 
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=909)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=909)
 
 Building off of domains of attack, and mechanisms of attack, MITRE also created an unbelievable resource that provides a way of looking at how those mechanisms are applied to the various domains of attack. Unsurprisingly, it is called ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge). This is the real world, practical application of these theories and it lists out the many many many ways that bad guys get in.
 
@@ -25,4 +25,6 @@ Tasks:
 4. Same with Privilege Escalation, Defense Evasion, Credential Access, Discovery, Lateral Movement, Collection, Exfiltration, Command and Control.... this requires more work... but really just read it and ignore the things that don't make sense. It's good practice. 
 
 Skip Pre-Attack for now. (https://attack.mitre.org/pre-attack/index.php/Main_Page) It requires its own stuff, lot of work to do.
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=909)
+ 

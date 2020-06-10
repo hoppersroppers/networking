@@ -1,6 +1,6 @@
 # Compartmentalization
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=946)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=946)
 
 Compartmentalization is based around the idea that you have various public facing personas, and you are unable to keep all of them private. You will never manage to completely erase your public, legal name persona from public record, and while you can attempt to keep it off the internet, it's a losing battle. Taken to an extreme, if you have separate personas for every website you use, with the appropriate technical protections we already went over, you could have a distributed profile that means that the discovery or unmasking of any specific account having no effect on the others.
 
@@ -30,4 +30,5 @@ If you have the time, these are all highly recommended, if not, add them to your
 * Hacker OPSEC talk: <https://www.youtube.com/watch?v=9XaYdCdwiWU>
 * Dulles' 73 Rules: <https://web.archive.org/web/20171009145459/http://www.oss.net/dynamaster/file_archive/100102/0a947a77d762061cc87ec541c2d2dcc7/2010-01-02%20Dulles%20on%20Tradecraft%20via%20Srodes.pdf>
 * Moscow Rules: <https://en.wikipedia.org/wiki/The_Moscow_rules>
-[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=946)
+
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=946) 

@@ -1,6 +1,6 @@
 # Man in the Middle
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=941)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=941)
 
 What is a man in the middle attack? You may have heard this before, and you'll hear it plenty more as it is the easiest and most common network attack.
 
@@ -32,4 +32,6 @@ Tasks:
 * Download Signal on your Phone. 
 * Ensure HTTPS Everywhere is installed
 
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=941)
+ 

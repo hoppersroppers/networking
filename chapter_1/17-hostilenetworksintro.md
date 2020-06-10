@@ -1,6 +1,6 @@
 # Hostile Networks Intro
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=938)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=938)
 
 # Hostile Networks
 ## Intro
@@ -22,4 +22,5 @@ First, let's get into threat modeling... If you are doing something so 'fun' tha
 So while we mostly care about circumventing censorship, we will also teach as if you had to care about bad guys getting your IP address. 
 
 It's a good thing to know.
-[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=938)
+
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=938) 

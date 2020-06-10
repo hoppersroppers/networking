@@ -1,6 +1,6 @@
 # IP Protections
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=940)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=940)
 
 ## Hiding Your IP and Circumventing Censorship
 
@@ -34,4 +34,6 @@ Remember honey tokens? Or just malware. That calls home real nice. There's also 
    * Hack their Router
    * Court orders to ISPs
    * Threaten to give it to police so they can go get a court order
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=940)
+ 

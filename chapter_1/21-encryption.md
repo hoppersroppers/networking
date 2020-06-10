@@ -1,6 +1,6 @@
 # Encryption
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=942)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=942)
 
 Tasks:
 
@@ -19,4 +19,6 @@ Now here is a slightly more technical primer on how real world cryptography work
 Read this: <https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp>
 
 Alright, now that you have an idea of what encryption is, read this <https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/> and explain the differences between the ideas explained.
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=942)
+ 

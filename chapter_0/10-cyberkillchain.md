@@ -1,6 +1,6 @@
 # Cyber Killchain
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=898)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=898)
 
 So how has security adapted to face all these threats? Basically, the most modern idea is the idea of defense in depth, making it so the bad guys have to beat layer after layer of security in order to get in, and then back out. The go-to model is the cyber killchain by Lockheed Martin, and while it gets a ton of crap, it is honestly a very good way of looking at it.
 
@@ -16,4 +16,6 @@ Write a sentence describing each and provide three examples. If you can't think 
 5. Installation
 6. Command and Control
 7. Actions on Objectives
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=898)
+ 

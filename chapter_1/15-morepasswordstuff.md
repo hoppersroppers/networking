@@ -1,6 +1,6 @@
 # More Password Stuff
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=935)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=935)
 
 # You Got Phished For Your Password
 
@@ -24,4 +24,5 @@ Routers, Internet of Things devices, and web applications are common victims of 
 If you have the ability to change the password, change the password. If you don't change the defaults, you are begging to get added to a botnet, or worse. 
 
 If you ever install an application and it has a default password, change that shit.
-[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=935)
+
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=935) 

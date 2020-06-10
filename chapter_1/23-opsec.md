@@ -1,6 +1,6 @@
 # OPSEC
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=945)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=945)
 
 # OPSEC is king
 
@@ -15,4 +15,6 @@ Tasks:
 3. Read this: [https://gizmodo.com/5901430/these-breasts-nailed-anonymous-hacker-in-fbi-case](https://gizmodo.com/5901430/these-breasts-nailed-anonymous-hacker-in-fbi-case)
 4. Give me the GPS coords for this picture: [https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg](https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg) . 
       * I recommend this site: <http://exif.regex.info/exif.cgi>
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=945)
+ 

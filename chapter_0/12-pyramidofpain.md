@@ -1,6 +1,6 @@
 # Pyramid of Pain
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=900)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=900)
 
 # Pyramid of Pain
 
@@ -13,4 +13,6 @@ Tasks:
 1. For each level of the pyramid of pain, describe it in your own words, and provide the primary strength and weakness of each.
 2. You might realize that tools and the first T in TTPs (Tools) are both on there. The primary difference is that tools is removing the adversary's ability to use a tool, while Tools is identifying the behavior caused by various tools that accomplish the same thing. Write a few sentences on what behavioral detection means and how it could work in some fancy startup. 
 3. Write a few sentences on how you could use the items in the pyramid of pain to identify a threat group. 
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=900)
+ 

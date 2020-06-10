@@ -1,6 +1,6 @@
 # AntiVirus
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=920)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=920)
 
 ### Anti-Virus
 
@@ -17,4 +17,5 @@ Task:
 2. Install Windows Defender, because it is built into your computer and really, really good. If it is installed, make sure it is running.
 3. Uninstall Malwarebytes. You don't need it around all the time, just whenever you get on a new computer and once every couple months.
 
-[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=920)
+
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=920) 

@@ -1,6 +1,6 @@
 # Wireless Attack
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=914)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=914)
 
 Same cool poster, learn about a sample wireless pen test.
 
@@ -14,4 +14,6 @@ In your own words, describe what happened so that you, a year ago, could underst
 
 Ask questions as well!!
 
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=914)
+ 

@@ -1,6 +1,6 @@
 # Security Questions and Account Resets
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=934)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=934)
 
 What is your mother?s maiden name? First dog? Elementary school? All of those things are fairly easy to find online, or just from casual conversation. If someone is trying to steal an account, that will always be the easiest route. Security questions are hard to avoid, but there are easy ways to harden yourself and protect your accounts.
  
@@ -23,4 +23,6 @@ Tasks:
 Combining the ideas of salting and hashing, now learn how you are going to make secure security questions! First, as a rule, don't use uppercase letters, spaces, or punctuation ever in your security questions. Why? Nothing about security, it just makes them easier to remember. Then if we take a hashing algorithm, like MD5, and a unique salt, such as ?salty17?, we can use the function MD5(_answer_to_question_ + ?salty17?). This will create a very very hard to figure out security question that you can easily use anywhere. 
 
 Or, if you are on a computer with your password manager, just write that shit down in your secure notes for a site. If they get your lastpass account you are screwed anyway, so don't worry about it.
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=934)
+ 

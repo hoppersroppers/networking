@@ -1,6 +1,6 @@
 # Penetration Testing
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=911)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=911)
 
 Pen Test is short for penetration testing, which basically means breaking into someone's stuff in order to help make them more secure by identifying vulnerabilities and helping to fix them. In the civilian world, you can do this for a job. While the military has "red teams" which perform attacks on friendly networks to help make our defenses better, the rest of the military who does this kind of work usually doesn't tell the people they hack how to make their systems more secure....Mostly because those people have already had all their stuff stolen/been hit in the head with a hellfire missile/shot in the head by a SEAL. But I digress.
 
@@ -15,4 +15,6 @@ Task:
 In your own words, describe what happened. Don't worry about getting it wrong for now, we'll teach you how to do this eventually. In addition, write out whatever questions you have about this and we'll answer them.
 
 You will be doing this for a few more scenarios, the point of writing out how this happened is so we can help you if you misunderstand things, as well as answer your questions.
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=911)
+ 

@@ -1,6 +1,6 @@
 # Password Manager
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=932)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=932)
 
 All is not lost however, luckily you do not have to memorize hundreds of high entropy passwords or carry them around in a locked diary. Password managers provide the ability to generate and store secure passwords across devices, all controlled by a single master password. This means you only need to know one password, and the rest can be pseudo-randomly generated. 
 
@@ -17,4 +17,6 @@ What password has 2^44 bits of entropy?
 8. Never use this new email for anything else ever again other than 
 9. Complete the LastPass Security challenge
  
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=932)
+ 

@@ -1,6 +1,6 @@
 # Taylor Swifts Guide to Securing Your Computer
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=928)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=928)
 
 Read Taylor Swift's Securing Your Computer List: [https://decentsecurity.com/securing-your-computer/](https://decentsecurity.com/securing-your-computer/)
 
@@ -15,4 +15,6 @@ Task:
 5. Install Disconnect Chrome Extension
 6.  Install Ghostery Chrome Extension
 
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=928)
+ 

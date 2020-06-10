@@ -1,6 +1,6 @@
 # MultiFactor Authentication
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=933)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=933)
 
 Tasks: 
 
@@ -25,4 +25,6 @@ b) intercept of text messages <https://www.theguardian.com/technology/2016/apr/1
 However, those things are not in your threat model unless you are famous or have cryptocurrency wallets.
 
 Another note: Just because you have 2 factor doesn't mean you can't get phished for it!
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=933)
+ 

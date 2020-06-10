@@ -1,6 +1,6 @@
 # You got Tricked
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=924)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=924)
 
 Alright so your computer is clean, probably, after following the last steps, now if you get infected in the future the most likely scenario is that you ran someone else's code and gave them access to your computer. There's nothing to feel bad about, this could have happened in many ways, and it happens to the best of us. Common ways this could have occured are online installers, phishing, and downloaded tools getting a malicious update. We will go over each method, and how to avoid it in the future. 
 
@@ -34,4 +34,6 @@ Tasks:
 6. Read this: <https://www.digitalcitizen.life/uac-why-you-should-never-turn-it-off>. 
 7. Turn UAC all the way up. Write what is UAC and why it protects you from malware.
 8. How does malware bypass UAC, other than getting a human to enter the password? (Hint: Mitre Attack) There are a few answers, google around.
+
 [Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=924)
+ 

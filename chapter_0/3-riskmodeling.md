@@ -1,6 +1,6 @@
 # Risk Modeling
 
-[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=889)
+[Check out our free course!](https://academy.hoppersroppers.org/mod/page/view.php?id=889)
 
 ## Threat Modeling 
 
@@ -25,4 +25,5 @@ What do you want to protect? Who do you want to protect it from? How likely is i
 12. What would it take for a hostile entity to capture what you just wrote down, depending on where you did it. Is it on a piece of paper, a local word document, a google doc? All of those require very different attacks.
 
 One important note is that you might not have anything worth a targeted attack personally, but you have access to other things that might be interesting to other people. For example, your contact lists can be used to identify other, more important targets. Even more dangerous, someone could use your account to send phishes to your contacts. A @navy.mil address is going to have a significantly higher click rate than some random @gmail. You also have access to your network, so someone could use you to pivot to a network you have access to.
-[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=889)
+
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=889) 
