@@ -1,0 +1,966 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Physical Attacks · title</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search-pro/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-prism/prism-solarizedlight.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-bibtex-indexed-cite/style.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-page-footer-ex/style/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-splitter/splitter.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-expandable-chapters-small/expandable-chapters-small.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="26-linuxpasswordreset.html" />
+    
+    
+    <link rel="prev" href="24-compartmentalization.html" />
+    
+
+    <style>
+    @media only screen and (max-width: 640px) {
+        .book-header .hidden-mobile {
+            display: none;
+        }
+    }
+    </style>
+    <script>
+        window["gitbook-plugin-github-buttons"] = {"buttons":[{"user":"hoppersroppers","repo":"ctf","type":"star","size":"small","count":true}]};
+    </script>
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        <li class="header">Intro to Insecurity</li>
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../chapter_0/1-introduction.html">
+            
+                <a href="../chapter_0/1-introduction.html">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../chapter_0/2-secondequation.html">
+            
+                <a href="../chapter_0/2-secondequation.html">
+            
+                    
+                    Second Equation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../chapter_0/3-riskmodeling.html">
+            
+                <a href="../chapter_0/3-riskmodeling.html">
+            
+                    
+                    Risk Modeling
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../chapter_0/4-riskassessment.html">
+            
+                <a href="../chapter_0/4-riskassessment.html">
+            
+                    
+                    Risk Assessment
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="../chapter_0/6-ciatriad.html">
+            
+                <a href="../chapter_0/6-ciatriad.html">
+            
+                    
+                    CIA Triad
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="../chapter_0/7-saltzerandschroeder.html">
+            
+                <a href="../chapter_0/7-saltzerandschroeder.html">
+            
+                    
+                    Saltzer and Schroeder
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="../chapter_0/8-immutablelaws.html">
+            
+                <a href="../chapter_0/8-immutablelaws.html">
+            
+                    
+                    Immutable Laws
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="../chapter_0/10-cyberkillchain.html">
+            
+                <a href="../chapter_0/10-cyberkillchain.html">
+            
+                    
+                    Cyber Killchain
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="../chapter_0/11-postexploitation.html">
+            
+                <a href="../chapter_0/11-postexploitation.html">
+            
+                    
+                    PostExploitation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="../chapter_0/12-pyramidofpain.html">
+            
+                <a href="../chapter_0/12-pyramidofpain.html">
+            
+                    
+                    Pyramid of Pain
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12" data-path="../chapter_0/13-diamondmodel.html">
+            
+                <a href="../chapter_0/13-diamondmodel.html">
+            
+                    
+                    Diamond Model
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13" data-path="../chapter_0/14-advancedpersistentthreats.html">
+            
+                <a href="../chapter_0/14-advancedpersistentthreats.html">
+            
+                    
+                    Advanced Persistent Threats
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14" data-path="../chapter_0/15-malware.html">
+            
+                <a href="../chapter_0/15-malware.html">
+            
+                    
+                    Malware
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15" data-path="../chapter_0/17-architecture.html">
+            
+                <a href="../chapter_0/17-architecture.html">
+            
+                    
+                    Architecture 
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16" data-path="../chapter_0/18-domainsofattack.html">
+            
+                <a href="../chapter_0/18-domainsofattack.html">
+            
+                    
+                    Domains of Attack
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17" data-path="../chapter_0/19-mechanismsofattack.html">
+            
+                <a href="../chapter_0/19-mechanismsofattack.html">
+            
+                    
+                    Mechanisms of Attack
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18" data-path="../chapter_0/20-methodsofattack.html">
+            
+                <a href="../chapter_0/20-methodsofattack.html">
+            
+                    
+                    Methods of Attack 
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19" data-path="../chapter_0/21-penetrationtesting.html">
+            
+                <a href="../chapter_0/21-penetrationtesting.html">
+            
+                    
+                    Penetration Testing
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20" data-path="../chapter_0/22-advancedpentest.html">
+            
+                <a href="../chapter_0/22-advancedpentest.html">
+            
+                    
+                    Advanced Pen Test
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21" data-path="../chapter_0/23-principlesintherealworld.html">
+            
+                <a href="../chapter_0/23-principlesintherealworld.html">
+            
+                    
+                    Principles in the Real World
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22" data-path="../chapter_0/24-wirelessattack.html">
+            
+                <a href="../chapter_0/24-wirelessattack.html">
+            
+                    
+                    Wireless Attack
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23" data-path="../chapter_0/25-webappattack.html">
+            
+                <a href="../chapter_0/25-webappattack.html">
+            
+                    
+                    Web App Attack
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Defense Against the Dark Arts</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="1-alreadyhacked.html">
+            
+                <a href="1-alreadyhacked.html">
+            
+                    
+                    Already Hacked
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2" data-path="2-antivirus.html">
+            
+                <a href="2-antivirus.html">
+            
+                    
+                    AntiVirus
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3" data-path="3-processhunting.html">
+            
+                <a href="3-processhunting.html">
+            
+                    
+                    Process Hunting
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.4" data-path="4-networkhunting.html">
+            
+                <a href="4-networkhunting.html">
+            
+                    
+                    Network Hunting
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5" data-path="5-yougottricked.html">
+            
+                <a href="5-yougottricked.html">
+            
+                    
+                    You got Tricked
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.6" data-path="6-outdatedextensionsandpermissions.html">
+            
+                <a href="6-outdatedextensionsandpermissions.html">
+            
+                    
+                    Outdated Extensions and Permissions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.7" data-path="7-someoneelsegotowned.html">
+            
+                <a href="7-someoneelsegotowned.html">
+            
+                    
+                    Someone Else Got Owned
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.8" data-path="8-malwareremoval.html">
+            
+                <a href="8-malwareremoval.html">
+            
+                    
+                    Malware Removal
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.9" data-path="9-taylorswiftsguidetosecuringyourcomputer.html">
+            
+                <a href="9-taylorswiftsguidetosecuringyourcomputer.html">
+            
+                    
+                    Taylor Swifts Guide to Securing Your Computer
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.10" data-path="11-passwords.html">
+            
+                <a href="11-passwords.html">
+            
+                    
+                    Passwords
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.11" data-path="12-passwordmanager.html">
+            
+                <a href="12-passwordmanager.html">
+            
+                    
+                    Password Manager
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.12" data-path="13-multifactorauthentication.html">
+            
+                <a href="13-multifactorauthentication.html">
+            
+                    
+                    MultiFactor Authentication
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.13" data-path="14-securityquestionsandaccountresets.html">
+            
+                <a href="14-securityquestionsandaccountresets.html">
+            
+                    
+                    Security Questions and Account Resets
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.14" data-path="15-morepasswordstuff.html">
+            
+                <a href="15-morepasswordstuff.html">
+            
+                    
+                    More Password Stuff
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.15" data-path="17-hostilenetworksintro.html">
+            
+                <a href="17-hostilenetworksintro.html">
+            
+                    
+                    Hostile Networks Intro
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.16" data-path="18-protectyourip.html">
+            
+                <a href="18-protectyourip.html">
+            
+                    
+                    Protect Your IP
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.17" data-path="19-ipprotections.html">
+            
+                <a href="19-ipprotections.html">
+            
+                    
+                    IP Protections
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.18" data-path="20-maninthemiddle.html">
+            
+                <a href="20-maninthemiddle.html">
+            
+                    
+                    Man in the Middle
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.19" data-path="21-encryption.html">
+            
+                <a href="21-encryption.html">
+            
+                    
+                    Encryption
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.20" data-path="23-opsec.html">
+            
+                <a href="23-opsec.html">
+            
+                    
+                    OPSEC
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.21" data-path="24-compartmentalization.html">
+            
+                <a href="24-compartmentalization.html">
+            
+                    
+                    Compartmentalization
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="2.22" data-path="25-physicalattacks.html">
+            
+                <a href="25-physicalattacks.html">
+            
+                    
+                    Physical Attacks
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.23" data-path="26-linuxpasswordreset.html">
+            
+                <a href="26-linuxpasswordreset.html">
+            
+                    
+                    Linux Password Reset
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.24" data-path="27-windowspasswordreset.html">
+            
+                <a href="27-windowspasswordreset.html">
+            
+                    
+                    Windows Password Reset
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Physical Attacks</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="physical-attacks">Physical Attacks</h1>
+<p><a href="https://academy.hoppersroppers.org/mod/page/view.php?id=947" target="_blank">Check out our free course!</a></p>
+<h1 id="physical-attacks">Physical attacks</h1>
+<p>A physical attack on your computer, called an &quot;Evil Maid&quot;, is a classic attack and near impossible to defeat. If someone has hands on keyboard after stealing your device, they own that computer unless you have protected it properly. If you have protected it properly and someone modifies the hardware, then you use it, then you are still screwed. If someone has you and the computer, you are screwed. Long story short, it is better for them to not know you are worth attacking, thus, OPSEC. However, sometimes you can&apos;t do that. Maybe you are a high profile individual who is in a hotel, maybe you live in a government dorm, maybe you are traveling and get border searched. This is the guide for those times. </p>
+<p>Tasks:</p>
+<ul>
+<li>Read this: <a href="http://images.secure.f-secure.com/Web/FSecure/%7B319382b2-a040-4c88-bd94-20eed01bf22f%7D_F-Secure-Evil-Maid-Guide.pdf" target="_blank">http://images.secure.f-secure.com/Web/FSecure/%7B319382b2-a040-4c88-bd94-20eed01bf22f%7D_F-Secure-Evil-Maid-Guide.pdf</a></li>
+<li>Where does an evil maid attack fall into your personal threat model?</li>
+</ul>
+<p>You can also mount an encrypted partition in your OS, and use that to hold a virtual machine to do your important work on. That gives you a ton of deniability, especially with the ability to make multiple partitions that unlock to different passwords. Remember though, if you get hacked on the outside, you get hacked in the VM as well. Either way, you need FDE and secure boot if you want to beat an evil maid.</p>
+<p>Alright, now that you know that you need FDE and Secure Boot, lets go into various physical attacks on a computer and defenses against them.</p>
+<ol>
+<li><p>Tackling you off of the computer while logged in</p>
+<pre class="language-"><code> * You can try a quick shutdown
+</code></pre><ul>
+<li>Read about Cold Boot attacks<ul>
+<li><a href="https://en.wikipedia.org/wiki/Cold_boot_attack" target="_blank">https://en.wikipedia.org/wiki/Cold_boot_attack</a></li>
+<li>While this sounds hard, I&apos;ve done one before in a controlled environment. Actually pretty easy.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Breaking in to your hotel room and installing a keylogger, then breaking back in later and stealing your laptop now that they have the password. Or just arresting you.</p>
+<pre class="language-"><code> * &lt;https://en.wikipedia.org/wiki/Black-bag_cryptanalysis&gt;
+</code></pre><ul>
+<li>Classic Boot attack</li>
+<li>Installing keylogger</li>
+</ul>
+</li>
+<li><p>Malicious hardware to a turned on computer</p>
+<ul>
+<li>USB Malware<pre class="language-"><code> * BAdusb
+ * Rubberducky
+ * BashBunny
+</code></pre></li>
+<li>FIREWIRE</li>
+<li>Turn off your computer when you leave </li>
+</ul>
+</li>
+<li><p>User Introduced Attacks</p>
+<ul>
+<li>Hardware intercepts<pre class="language-"><code>* Some chips will get intercepted en route, replaced/modified, and sent to their final destination
+</code></pre></li>
+<li>Backdoored chips<ul>
+<li>Some chips will come off the assembly line with backdoors in them already</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Malicious hardware to turned off compter</p>
+<pre class="language-"><code> * Throw a new chip on your computer
+</code></pre><ul>
+<li>Keylogger in keyboard</li>
+<li>NSA Playset: <a href="http://www.nsaplayset.org/chuckwagon" target="_blank">http://www.nsaplayset.org/chuckwagon</a></li>
+</ul>
+</li>
+<li><p>Electronic Emissions</p>
+<pre class="language-"><code> * Read this: &lt;https://en.wikipedia.org/wiki/Van_Eck_phreaking&gt;
+</code></pre></li>
+<li><p>Taking you and your computer and forcing you to give up password</p>
+<ul>
+<li><p>&quot;Rubber hose cryptography&quot;</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis" target="_blank">https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis</a></li>
+<li><a href="https://xkcd.com/538/" target="_blank">https://xkcd.com/538/</a></li>
+<li>Some encryption tools allow the possibility of multiple partitions, so that multiple passwords can be used. Only one password unlocks what you are actually trying to hide, others open different partitions, and there is no way of proving that there are multiple partition/password pairs... this doesn&apos;t work very well legally, but might work. A little bit. </li>
+<li>Legal issues surrounding forced password disclosure<pre class="language-"><code>* There is more constitutional law in this field than you ever expected. Further on courses will discuss how all this plays together but:
+</code></pre><ul>
+<li>Basically, US you are good, plead the 5th, self-incrimination. You&apos;ll still probably go down, but not for what is on the hard drive.</li>
+<li>Europe, you are going to jail</li>
+<li>Most other countries, jail</li>
+<li>&quot;Not chill&quot; countries, beaten until you give it up, then jail</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Biometrics</p>
+<ul>
+<li>If your device unlocks with anything on your body, they can just take you and open your stuff. </li>
+<li>Fingerprint/retina/voice/face unlocks are not protected by Constitution, they can just make you unlock these things if they have you. </li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<h1 id="lockpicking">Lockpicking</h1>
+<p>Lockpicking and other security bypass techniques are very popular in the community, for obvious reasons. Many conferences have lockpick competitions and plenty of people carry picks around, because there is nothing worse than getting locked out of things you are allowed access to, but don&apos;t have a key.</p>
+<p>Read this: <a href="https://www.art-of-lockpicking.com/how-to-pick-a-lock-guide/" target="_blank">https://www.art-of-lockpicking.com/how-to-pick-a-lock-guide/</a>. 
+At some point we will figure out getting lockpicks to participants so that they can practice. </p>
+<p><a href="https://academy.hoppersroppers.org/mod/page/view.php?id=947" target="_blank">Visit the course page!</a> </p>
+<footer class="page-footer-ex"> <span class="page-footer-ex-copyright"> Hoppers Roppers 2020 </span> &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; <span class="page-footer-ex-footer-update"> Date&#xFF1A; 2020-06-10 23:05:02 </span> </footer>
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="24-compartmentalization.html" class="navigation navigation-prev " aria-label="Previous page: Compartmentalization">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="26-linuxpasswordreset.html" class="navigation navigation-next " aria-label="Next page: Linux Password Reset">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Physical Attacks","level":"2.22","depth":1,"next":{"title":"Linux Password Reset","level":"2.23","depth":1,"path":"chapter_1/26-linuxpasswordreset.md","ref":"chapter_1/26-linuxpasswordreset.md","articles":[]},"previous":{"title":"Compartmentalization","level":"2.21","depth":1,"path":"chapter_1/24-compartmentalization.md","ref":"chapter_1/24-compartmentalization.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-pro","-sharing","github-buttons","editlink","ga","-highlight","prism","bibtex-indexed-cite","page-footer-ex","splitter","todo","copy-code-button","expandable-chapters-small"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"prism":{"ignore":["mermaid","eval-js"],"css":["prismjs/themes/prism-solarizedlight.css"]},"editlink":{"label":"Edit","multilingual":false,"base":"https://github.com/hoppersroppers/security/blob/master"},"todo":{},"page-footer-ex":{"copyright":"Hoppers Roppers 2020","markdown":true,"update_format":"YYYY-MM-DD HH:mm:ss","update_label":"Date："},"splitter":{},"search-pro":{"cutWordLib":"nodejieba","defineWord":["Gitbook Use"]},"fontsettings":{"theme":"white","family":"sans","size":2},"anchor-navigation-ex":{"showLevel":false},"bibtex-indexed-cite":{"path":"/"},"github-buttons":{"buttons":[{"user":"hoppersroppers","repo":"ctf","type":"star","size":"small","count":true}]},"expandable-chapters-small":{},"copy-code-button":{},"ga":{"configuration":"auto","token":"UA-151638088-2"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"bibCount":0,"variables":{},"title":"title","bib":[],"gitbook":"*"},"file":{"path":"chapter_1/25-physicalattacks.md","mtime":"2020-06-10T23:05:02.216Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-06-10T23:05:44.256Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-search-pro/jquery.mark.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search-pro/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-github-buttons/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-editlink/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-ga/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-splitter/splitter.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-copy-code-button/toggle.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-expandable-chapters-small/expandable-chapters-small.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
