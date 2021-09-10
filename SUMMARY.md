@@ -1,63 +1,100 @@
 # Summary
 
 
+## Course Overview
 
-## Intro to Insecurity
+* [Course Description](CourseOverview/0-CourseDescription.md)
+* [The Site](CourseOverview/1-TheSite.md)
+* [Legal](CourseOverview/2-Legal.md)
 
-* [Risk](chapter_0/0-risk.md)
-* [Introduction](chapter_0/1-introduction.md)
-* [Second Equation](chapter_0/2-secondequation.md)
-* [Risk Modeling](chapter_0/3-riskmodeling.md)
-* [Risk Assessment](chapter_0/4-riskassessment.md)
-* [Security Principles](chapter_0/5-securityprinciples.md)
-* [CIA Triad](chapter_0/6-ciatriad.md)
-* [Saltzer and Schroeder](chapter_0/7-saltzerandschroeder.md)
-* [Immutable Laws](chapter_0/8-immutablelaws.md)
-* [Threats](chapter_0/9-threats.md)
-* [Cyber Killchain](chapter_0/10-cyberkillchain.md)
-* [PostExploitation](chapter_0/11-postexploitation.md)
-* [Pyramid of Pain](chapter_0/12-pyramidofpain.md)
-* [Diamond Model](chapter_0/13-diamondmodel.md)
-* [Advanced Persistent Threats](chapter_0/14-advancedpersistentthreats.md)
-* [Malware](chapter_0/15-malware.md)
-* [How it Works](chapter_0/16-howitworks.md)
-* [Architecture ](chapter_0/17-architecture.md)
-* [Domains of Attack](chapter_0/18-domainsofattack.md)
-* [Mechanisms of Attack](chapter_0/19-mechanismsofattack.md)
-* [Methods of Attack ](chapter_0/20-methodsofattack.md)
-* [Penetration Testing](chapter_0/21-penetrationtesting.md)
-* [Advanced Pen Test](chapter_0/22-advancedpentest.md)
-* [Principles in the Real World](chapter_0/23-principlesintherealworld.md)
-* [Wireless Attack](chapter_0/24-wirelessattack.md)
-* [Web App Attack](chapter_0/25-webappattack.md)
+## Secure Yourself Now
 
-## Defense Against the Dark Arts
+* [Secure Yourself Now](SecureYourselfNow/0-SecureYourselfNow.md)
+* [Passwords and HaveIBeenPwned](SecureYourselfNow/1-PasswordsandHaveIBeenPwned.md)
+* [Who is Tracking Me](SecureYourselfNow/2-WhoisTrackingMe.md)
+* [Update Your Computer and Scan ](SecureYourselfNow/3-UpdateYourComputerandScan.md)
 
-* [Hacked](chapter_1/0-hacked.md)
-* [Already Hacked](chapter_1/1-alreadyhacked.md)
-* [AntiVirus](chapter_1/2-antivirus.md)
-* [Process Hunting](chapter_1/3-processhunting.md)
-* [Network Hunting](chapter_1/4-networkhunting.md)
-* [You got Tricked](chapter_1/5-yougottricked.md)
-* [Outdated Extensions and Permissions](chapter_1/6-outdatedextensionsandpermissions.md)
-* [Someone Else Got Owned](chapter_1/7-someoneelsegotowned.md)
-* [Malware Removal](chapter_1/8-malwareremoval.md)
-* [Taylor Swifts Guide to Securing Your Computer](chapter_1/9-taylorswiftsguidetosecuringyourcomputer.md)
-* [Passwords](chapter_1/10-passwords.md)
-* [Passwords](chapter_1/11-passwords.md)
-* [Password Manager](chapter_1/12-passwordmanager.md)
-* [MultiFactor Authentication](chapter_1/13-multifactorauthentication.md)
-* [Security Questions and Account Resets](chapter_1/14-securityquestionsandaccountresets.md)
-* [More Password Stuff](chapter_1/15-morepasswordstuff.md)
-* [Networks](chapter_1/16-networks.md)
-* [Hostile Networks Intro](chapter_1/17-hostilenetworksintro.md)
-* [Protect Your IP](chapter_1/18-protectyourip.md)
-* [IP Protections](chapter_1/19-ipprotections.md)
-* [Man in the Middle](chapter_1/20-maninthemiddle.md)
-* [Encryption](chapter_1/21-encryption.md)
-* [Real World](chapter_1/22-realworld.md)
-* [OPSEC](chapter_1/23-opsec.md)
-* [Compartmentalization](chapter_1/24-compartmentalization.md)
-* [Physical Attacks](chapter_1/25-physicalattacks.md)
-* [Linux Password Reset](chapter_1/26-linuxpasswordreset.md)
-* [Windows Password Reset](chapter_1/27-windowspasswordreset.md)
+## Risk
+
+* [CIANA ](Risk/0-CIANA.md)
+* [Introduction to Risk](Risk/1-IntroductiontoRisk.md)
+* [Risk Modeling](Risk/2-RiskModeling.md)
+* [Your Threat Model](Risk/3-YourThreatModel.md)
+
+## Real World
+
+* [People You Know](RealWorld/0-PeopleYouKnow.md)
+* [Data Minimization](RealWorld/1-DataMinimization.md)
+* [Linux Password Reset](RealWorld/2-LinuxPasswordReset.md)
+* [Windows Password Reset](RealWorld/3-WindowsPasswordReset.md)
+* [Technical Attacks](RealWorld/4-TechnicalAttacks.md)
+* [Lockpicking and Security](RealWorld/5-LockpickingandSecurity.md)
+* [OPSEC and Compartmentalization](RealWorld/6-OPSECandCompartmentalization.md)
+* [Dox Yourself ](RealWorld/7-DoxYourself.md)
+
+## Passwords and Auth
+
+* [Authentication](PasswordsandAuth/0-Authentication.md)
+* [Password Complexity](PasswordsandAuth/1-PasswordComplexity.md)
+* [Password Manager](PasswordsandAuth/2-PasswordManager.md)
+* [MultiFactor Authentication](PasswordsandAuth/3-MultiFactorAuthentication.md)
+* [Security Questions and Account Resets](PasswordsandAuth/4-SecurityQuestionsandAccountResets.md)
+* [Hashing Confidentiality without Authentication](PasswordsandAuth/5-HashingConfidentialitywithoutAuthentication.md)
+* [Outdated Extensions and Permissions](PasswordsandAuth/6-OutdatedExtensionsandPermissions.md)
+* [Phishing](PasswordsandAuth/7-Phishing.md)
+* [Miscellaneous](PasswordsandAuth/8-Miscellaneous.md)
+
+## Network
+
+* [Hostile Networks Intro](Network/0-HostileNetworksIntro.md)
+* [Protect Your IP Address](Network/1-ProtectYourIPAddress.md)
+* [IP Protections](Network/2-IPProtections.md)
+* [Encryption](Network/3-Encryption.md)
+* [Metadata](Network/4-Metadata.md)
+* [Man in the Middle IP](Network/5-ManintheMiddleIP.md)
+* [So VPNs](Network/6-SoVPNs.md)
+
+## Hacking
+
+* [Network Architecture Notes](Hacking/0-NetworkArchitectureNotes.md)
+* [Cyber Killchain](Hacking/1-CyberKillchain.md)
+* [PostExploitation](Hacking/2-PostExploitation.md)
+* [Malware Types and Classification](Hacking/3-MalwareTypesandClassification.md)
+* [Red vs Blue Team Jobs](Hacking/4-RedvsBlueTeamJobs.md)
+* [Phishing Case StudyIP](Hacking/6-PhishingCaseStudyIP.md)
+* [Exploit Case Study IP](Hacking/7-ExploitCaseStudyIP.md)
+* [Wireless Attack Case Study IP](Hacking/8-WirelessAttackCaseStudyIP.md)
+* [Web App Attack Case Study IP](Hacking/9-WebAppAttackCaseStudyIP.md)
+
+## Defense Against the DarkArts
+
+* [How to Tell if You are Hacked](DefenseAgainsttheDarkArts/0-HowtoTellifYouareHacked.md)
+* [AntiVirus Basics](DefenseAgainsttheDarkArts/1-AntiVirusBasics.md)
+* [Threat Hunting Basics](DefenseAgainsttheDarkArts/2-ThreatHuntingBasics.md)
+* [Linux Network Hunting Lab](DefenseAgainsttheDarkArts/3-LinuxNetworkHuntingLab.md)
+* [Linux Process Hunting ](DefenseAgainsttheDarkArts/4-LinuxProcessHunting.md)
+* [Windows Network Threat Hunting  ](DefenseAgainsttheDarkArts/5-WindowsNetworkThreatHunting.md)
+* [Windows Process Hunting](DefenseAgainsttheDarkArts/6-WindowsProcessHunting.md)
+* [Malware Removal](DefenseAgainsttheDarkArts/7-MalwareRemoval.md)
+
+## Securing Yourself
+
+* [Phishing](SecuringYourself/0-Phishing.md)
+* [Securing Windows According to Taylor Swift](SecuringYourself/1-SecuringWindowsAccordingtoTaylorSwift.md)
+* [Securing Linux According to Dennis](SecuringYourself/2-SecuringLinuxAccordingtoDennis.md)
+* [Supply Chain Attacks](SecuringYourself/3-SupplyChainAttacks.md)
+* [How to Help Others Be Safe Online](SecuringYourself/4-HowtoHelpOthersBeSafeOnline.md)
+
+## Security Principle Library
+
+* [Immutable Laws](SecurityPrincipleLibrary/0-ImmutableLaws.md)
+* [Pyramid of Pain](SecurityPrincipleLibrary/1-PyramidofPain.md)
+* [Diamond Model](SecurityPrincipleLibrary/2-DiamondModel.md)
+* [Domains of Attack](SecurityPrincipleLibrary/3-DomainsofAttack.md)
+* [Methods of Attack ](SecurityPrincipleLibrary/4-MethodsofAttack.md)
+* [Advanced Persistent Threats](SecurityPrincipleLibrary/5-AdvancedPersistentThreats.md)
+* [Mechanisms of Attack](SecurityPrincipleLibrary/6-MechanismsofAttack.md)
+* [Lampson Principles in the Real World](SecurityPrincipleLibrary/7-LampsonPrinciplesintheRealWorld.md)
+* [Risk Assessment](SecurityPrincipleLibrary/8-RiskAssessment.md)
+* [Mickens This World of Ours](SecurityPrincipleLibrary/9-MickensThisWorldofOurs.md)
+* [Compartmentalization](SecurityPrincipleLibrary/10-Compartmentalization.md)
