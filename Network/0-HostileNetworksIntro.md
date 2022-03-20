@@ -1,5 +1,5 @@
 # Hostile Networks Intro
-##  [Register for the Free Course Today!](https://www.hoppersroppers.org/courseSecurity.html)
+##  [Register for the Free Course Today!](https://www.roppers.org/courses/security)
 ## Intro
 Add this to the list of security truisms.
 

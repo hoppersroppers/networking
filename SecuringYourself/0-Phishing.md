@@ -1,5 +1,5 @@
 # Phishing
-##  [Register for the Free Course Today!](https://www.hoppersroppers.org/courseSecurity.html)
+##  [Register for the Free Course Today!](https://www.roppers.org/courses/security)
 Alright so your computer is clean, probably, after following the last steps, now if you get infected in the future the most likely scenario is that you ran someone else's code and gave them access to your computer. There's nothing to feel bad about, this could have happened in many ways, and it happens to the best of us. Common ways this could have occured are online installers, phishing, and downloaded tools getting a malicious update. We will go over each method, and how to avoid it in the future. 
 
 

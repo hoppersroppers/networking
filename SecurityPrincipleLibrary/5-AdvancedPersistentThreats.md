@@ -1,5 +1,5 @@
 # Advanced Persistent Threats
-##  [Register for the Free Course Today!](https://www.hoppersroppers.org/courseSecurity.html)
+##  [Register for the Free Course Today!](https://www.roppers.org/courses/security)
 We're not talking random, one off, untargeted criminals. We're talking nation state. We're talking state sponsored. We're talking non-attrib state actors. We're talking government funded. 
 
 I will write something better eventually, but for now, this has most of the information you need.

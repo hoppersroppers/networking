@@ -1,5 +1,5 @@
 # Man in the Middle IP
-##  [Register for the Free Course Today!](https://www.hoppersroppers.org/courseSecurity.html)
+##  [Register for the Free Course Today!](https://www.roppers.org/courses/security)
 If you've got encryption on, that certainly doesn't mean your safe from all attacks, the most notable being a man in the middle attack. You may have heard this before, and you'll hear it plenty more as it is the easiest and most common network attack.
 
 The general idea is that if Computer A tries to communicate with Computer C, but their conversation transits over Computer B, B is able to read and even alter the messages being sent. This can allow Computer B to impersonate both people to each other and have them each receive a totally incorrect message while never knowing that they are being listened in on. This was not a huge problem back in the '70s on ARPANET, but now, when there are dozens of hops between your computer and whatever website you visit, any of those could be intercepting your traffic (and mostly likely multiple are).

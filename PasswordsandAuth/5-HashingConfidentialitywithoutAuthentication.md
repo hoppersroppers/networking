@@ -1,5 +1,5 @@
 # Hashing Confidentiality without Authentication
-##  [Register for the Free Course Today!](https://www.hoppersroppers.org/courseSecurity.html)
+##  [Register for the Free Course Today!](https://www.roppers.org/courses/security)
 A good deal of security is based around the idea of confidentiality, that someone who is not authorized to read something can't read it. We discussed the idea of permissions earlier, where someone who is not authorized to read something is simply not granted access to it by a computer, but there are situations in which we need to send or otherwise expose sensitive data. To allow data to be exposed without authentication, we need a way to protect that sensitive information from people who don't know some sort of secret. This is where math comes in.  
 
 There are two primary ways to protect the confidentiality of secret information: Encryption and hashing. Let's go into each a little bit, but we will focus on hashing here.

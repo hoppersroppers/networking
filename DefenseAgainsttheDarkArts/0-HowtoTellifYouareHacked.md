@@ -1,5 +1,5 @@
 # How to Tell if You are Hacked
-##  [Register for the Free Course Today!](https://www.hoppersroppers.org/courseSecurity.html)
+##  [Register for the Free Course Today!](https://www.roppers.org/courses/security)
 As we went over earlier, if a sufficiently advanced attacker wants to get into your stuff specifically, they will.
 
 But we have looked at our threat model before and have determined we are probably not a person of interest to the NSA/Mossad/FSB, right? Right???

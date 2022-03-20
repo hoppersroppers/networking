@@ -1,5 +1,5 @@
 # Authentication
-##  [Register for the Free Course Today!](https://www.hoppersroppers.org/courseSecurity.html)
+##  [Register for the Free Course Today!](https://www.roppers.org/courses/security)
 We discussed authentication earlier as a pillar of security, and while there are other forms of authentication when it comes down to it, passwords provide the vast majority. Whether that is good or bad is up for nerds to debate, but it's the way that it is, so let's spend some time learning about passwords. 
 
 But before that, let's learn about some famous principles of security design from two people named Saltzer and Schroeder: [Security Principles](https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/follow-good-principles.html)

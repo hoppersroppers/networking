@@ -1,5 +1,5 @@
 # Course Description
-##  [Register for the Free Course Today!](https://www.hoppersroppers.org/courseSecurity.html)
+##  [Register for the Free Course Today!](https://www.roppers.org/courses/security)
 Hey! [I'm Dennis](https://www.hoppersroppers.org/about.html), the person behind Hopper's Roppers. 
 
 This is the Roppers Security Theory and Practice course. It is, to the best of my knowledge, the only security theory course out there that focuses on practical application. 

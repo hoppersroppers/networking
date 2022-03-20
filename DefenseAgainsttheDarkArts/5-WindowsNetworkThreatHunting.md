@@ -1,5 +1,5 @@
 # Windows Network Threat Hunting  
-##  [Register for the Free Course Today!](https://www.hoppersroppers.org/courseSecurity.html)
+##  [Register for the Free Course Today!](https://www.roppers.org/courses/security)
 Network hunting on Windows is basically the same thing as on Linux, it's all just packets. Packet captures from all operating systems will be saved in the same place on the security monitoring server and network analysts will look at them using the same tools. Even looking at Wireshark captures locally will be basically the same, though there will be a bunch of weird looking Microsoft protocols going on that all look like malware C2 but really are benign. "Know normal, find evil", so get used to the weirdness.
 
 The primary difference for you will be what tools you use to look for rouge local connections. I recommend the built-in commands ```netstat ?ano``` and ```netstat ?af``` for that on Windows. 

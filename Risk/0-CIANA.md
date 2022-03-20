@@ -1,5 +1,5 @@
 # CIANA 
-##  [Register for the Free Course Today!](https://www.hoppersroppers.org/courseSecurity.html)
+##  [Register for the Free Course Today!](https://www.roppers.org/courses/security)
 Na, not that CIA. 
 
 CIA, in the context of information security, stands for Confidentiality, Integrity, and Availability. They are known as the pillars of information security for good reason, as basically all security processes are designed around protecting one or more of these things. The foundational question of all security is "How can I be sure that the CIA triad is preserved?"

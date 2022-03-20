@@ -1,5 +1,5 @@
 # Network Architecture Notes
-##  [Register for the Free Course Today!](https://www.hoppersroppers.org/courseSecurity.html)
+##  [Register for the Free Course Today!](https://www.roppers.org/courses/security)
 Alright fine, you know what time it is. We're at the fun part where we get to learn about malware, how the bad guys get in and the good guys stop them. 
 
 But first, networking vocab! This is a very short section that we will make longer in the future, but for now, it'll do. You don't need to know networking, just what these words mean.
