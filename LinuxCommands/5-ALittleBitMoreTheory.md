@@ -8,7 +8,7 @@ Read these two resources and take notes. Things should slowly be making
 more sense. 
 
 -   <https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols>
--   <https://commotionwireless.net/docs/cck/networking/learn-networking-basics/>
+-   <https://web.archive.org/web/20240107222517/https://commotionwireless.net/docs/cck/networking/learn-networking-basics>
 
   
 

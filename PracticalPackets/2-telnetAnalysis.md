@@ -28,7 +28,7 @@ Steps : 
 `Assignment:`
 
 1.  `What is the standard telnet port?`
-2.  `What happened when the connection started? This might not work if your ISP is blocking telnet. If this didn't work, `[`bask in this glory.`](https://www.youtube.com/watch?v=q1U6v07v90g)
+2.  `What happened when the connection started? This might not work if your ISP is blocking telnet. If this didn't work, `[`bask in this glory.`](https://www.youtube.com/watch?v=Dgwyo6JNTDA)
 3.  What filter is needed to see all traffic between the site and you?
 4.  What did you see if you follow TCP stream?
 5.  Were you able to see anything? 

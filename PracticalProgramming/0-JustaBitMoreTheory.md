@@ -4,14 +4,10 @@
 
 Finish Cyber Aces Networking:
 
--   [Layer 4 -
-    Transport](https://tutorials.cyberaces.org/tutorials/view/2-6.html)
--   [Layers 5 & 6 - Session and
-    Presentation](https://tutorials.cyberaces.org/tutorials/view/2-7.html)
--   [Layer 7 -
-    Application](https://tutorials.cyberaces.org/tutorials/view/2-8.html)
--   [Inter-Layer Communication &
-    Conclusions](https://tutorials.cyberaces.org/tutorials/view/2-9.html)
+- [Layer 4 - Transport](https://www.youtube.com/watch?v=VPCGd6EOS-k)
+- [Layers 5 & 6 - Session and Presentation](https://www.youtube.com/watch?v=rE1-w6lhrKI)
+- [Layer 7 - Application](https://www.youtube.com/watch?v=nrZ8kB6vP24)
+- [Inter-Layer Communication & Conclusions](https://www.youtube.com/watch?v=OjhwMsQq5oY)
 
   
 
